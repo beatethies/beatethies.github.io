@@ -1,6 +1,6 @@
 # WELCOME!
 
-I am a PhD Student in Economics at University of Mannheim.
+I am a PhD Student in Economics at the University of Mannheim.
 
 ## RESEARCH FIELDS
 Applied Microeconomics
