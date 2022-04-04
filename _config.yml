@@ -10,9 +10,9 @@ logo                     : /photo.jpg
 title                    : "Beate Thies"
 title_separator          : "-"
 name                     : &name "Beate Thies"
-masthead_title:             "Beate Thies"
-theme: jekyll-theme-minimal
-minimal_mistakes_skin:  "contrast" 
+masthead_title           : "Beate Thies"
+remote_theme             : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "contrast" 
 github:
   is_project_page: false
 
