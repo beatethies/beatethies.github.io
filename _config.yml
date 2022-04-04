@@ -6,12 +6,19 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+logo                     : /photo.jpg
 title                    : "Beate Thies"
 title_separator          : "-"
 name                     : &name "Beate Thies"
-logo                     : /photo.jpg
 masthead_title:             "Beate Thies"
 
+
+github:
+  is_project_page: false
+  
+ 
+theme: jekyll-theme-minimal
+minimal_mistakes_skin:  "contrast" 
 # Analytics
 #analytics:
 #  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
@@ -56,5 +63,4 @@ author:
   youtube          :
   wikipedia        :
 
-theme: jekyll-theme-minimal
-minimal_mistakes_skin:  "contrast" 
+
