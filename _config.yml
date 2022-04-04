@@ -16,7 +16,7 @@ name                     : &name "Beate Thies"
 masthead_title:             "Beate Thies"
 
 github:
-  is_project_page: false
+  is\_project\_page: false
 
 # Site Author
 author:
