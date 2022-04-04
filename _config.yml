@@ -11,20 +11,10 @@ title                    : "Beate Thies"
 title_separator          : "-"
 name                     : &name "Beate Thies"
 masthead_title:             "Beate Thies"
-
-
-github:
-  is_project_page: false
-  
- 
 theme: jekyll-theme-minimal
 minimal_mistakes_skin:  "contrast" 
-# Analytics
-#analytics:
-#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
-#  google:
-#    tracking_id          :
-
+github:
+  is_project_page: false
 
 # Site Author
 author:
@@ -63,4 +53,9 @@ author:
   youtube          :
   wikipedia        :
 
+# Analytics
+#analytics:
+#  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+#  google:
+#    tracking_id          :
 
