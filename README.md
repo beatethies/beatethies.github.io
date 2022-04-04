@@ -1,6 +1,7 @@
 # WELCOME!
 
 I am a PhD Student in Economics at the University of Mannheim.
+You can download my [CV here](cv.pdf).
 
 ## RESEARCH FIELDS
 Applied Microeconomics
