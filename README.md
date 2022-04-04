@@ -1,9 +1,11 @@
-# WELCOME!
+## WELCOME!
 
 I am a PhD Student in Economics at the University of Mannheim.
-You can download my [CV here](cv.pdf).
+You can download my [CV here](https://beatethies.github.io/cv.pdf).
 
-## RESEARCH FIELDS
+
+
+### RESEARCH FIELDS
 Applied Microeconomics
 
 Environmental Economics
@@ -11,9 +13,8 @@ Environmental Economics
 Labor and Education Economics
 
 
-## WORK IN PROGRESS
 
-
+### WORK IN PROGRESS
 **Air Quality and the Productivity of High-Skilled Workers: Evidence from GitHub**  (*joint with Felix Holub*)
 
 
