@@ -9,7 +9,7 @@
 title                    : "Beate Thies"
 title_separator          : "-"
 name                     : &name "Beate Thies"
-logo                     : "/photo.jpg"
+logo                     : /photo.jpg
 masthead_title:             "Beate Thies"
 
 # Analytics
