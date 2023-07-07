@@ -1,10 +1,10 @@
 
 ## WELCOME!
 
-I am a PhD Candidate in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/).
+I am an applied microeconomist with main research interests in environmental and labor economics. I recently obtained my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). In September 2023, I will join the Department of Economics at the University of Vienna. 
 <br/>
 <br/>
-You can download my [CV here](https://beatethies.github.io/cv.pdf) and contact me at beate.thies[at]uni-mannheim[dot]de.  <br/>
+Find my [CV here](https://beatethies.github.io/cv.pdf) and feel free to contact me at [bg.thies(at)gmail.com](mailto:bg.thies@gmail.com).  <br/>
 <br/>
 
 ### RESEARCH FIELDS
