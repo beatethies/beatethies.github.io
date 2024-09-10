@@ -1,7 +1,7 @@
 
 ## WELCOME!
 
-I am an applied microeconomist with main research interests in environmental and labor economics. This fall, I have joined the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/) as an Assistant Professor.  I earned my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in June 2023.
+I am an applied microeconomist with main research interests in environmental and labor economics. I am an Assistant Professor in the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/).  I earned my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in June 2023.
 <br/>
 <br/>
 Find my [CV here](https://beatethies.github.io/CV.pdf) and feel free to contact me at [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
@@ -19,21 +19,13 @@ Highly skilled knowledge workers are important drivers of innovation and long-ru
 
  <br/>
  
-**Prenatal Exposure to Air Pollution and the Development of Noncognitive Skills**
+**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** <span style="color:red">*(Updated!)*</span>
 
 
 <details>
-  <summary>[Abstract | <a href="https://beatethies.github.io/AP_noncognitive_paper.pdf">Paper</a>]</summary>
+  <summary>[Abstract | <a href="https://beatethies.github.io/AP_socioemotional.pdf">Paper</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
-Noncognitive skills are important predictors for life outcomes like education, health and earnings. This paper 
-provides causal evidence on the effect of in-utero exposure to air pollution on noncognitive ability in childhood. 
-I use the meteorological phenomenon of thermal inversions to address the endogeneity in exposure to particulate 
-matter and data from a representative household survey in Germany to measure noncognitive abilities. I find that
-an increase in particulate matter concentration by 1 unit during the prenatal period raises neuroticism at age 5-10 
-by 7% of a standard deviation. This implies that affected children are less emotionally stable, more fearful and 
-less self-confident. Back of the envelope computations indicate that a one standard deviation increase in particulate 
-matter reduces adult earnings by 0.24%-0.29% 
-just through its impact on neuroticism. </div>
+Socio-emotional skills are important predictors for life outcomes like education, health and earnings. This paper provides causal evidence on the effect of in-utero exposure to air pollution on socio-emotional ability in childhood. Using thermal inversions to address endogeneity in pollution exposure and data from a representative household survey in Germany, I find that an increase in fine particulate matter concentration by 1 μg/m3 during the prenatal period increases neuroticism and internalizing behavior at age 5-10 by 13% and 18% of a standard deviation, respectively. This implies that affected children are less emotionally stable and suggests adverse impacts on mental health. Back of the envelope computations indicate that a standard deviation increase in fine particulate matter reduces adult earnings by 0.23%-0.74% through its impact on socioemotional ability. </div>
 </details>
 
 <br/>
