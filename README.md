@@ -42,6 +42,7 @@ We study how circadian rhythm disruptions affect the performance of highly skill
 </details>
 
 <br/>
+
 **Spillover Effects of Local Environmental Shocks in Global Networks of Knowledge Workers** (*with [Felix Holub](https://felixholub.com/)*)
 
 <br/>
