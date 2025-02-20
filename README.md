@@ -1,7 +1,6 @@
 
 ## WELCOME!
-
-I am an applied microeconomist with main research interests in environmental and labor economics. I am an Assistant Professor in the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/).  I received my PhD in Economics from the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/) in June 2023.
+I am an Assistant Professor in the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/).  Prior to that, I did my PhD in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). My main research interests are in environmental and labor economics. 
 <br/>
 <br/>
 Find my [CV here](https://beatethies.github.io/CV_BT.pdf) and feel free to contact me at [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
@@ -20,7 +19,7 @@ Highly skilled knowledge workers are important drivers of innovation and long-ru
 
  <br/>
  
-**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** <span style="color:red">*(Updated!)*</span>
+**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** (Revise and Resubmit, JAERE)
 
 
 <details>
