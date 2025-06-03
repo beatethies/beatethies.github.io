@@ -12,7 +12,7 @@ Find my [CV here](https://beatethies.github.io/CV_BT.pdf) and feel free to conta
 **Air Quality, Knowledge Worker Performance and Adaptation: Evidence from GitHub**  (*with [Felix Holub](https://felixholub.com/)*)
 
 <details>
-  <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>  <em>The Visible Hand</em>] </summary>
+  <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 Highly skilled knowledge workers are important drivers of innovation and long-run growth. We study how air quality affects productivity and work patterns among these workers, using data from GitHub, the world's largest coding platform. We combine panel data on daily output, working hours, and task choices for a sample of 27,000 software developers across four continents during the period 2014-2019 with information on concentrations of fine particulate matter (PM2.5). An increase in air pollution reduces output, measured by the number of total actions performed on GitHub per day, and induces developers to adapt by working on easier tasks and by ending work activity earlier. To compensate, they work more on weekends following high-pollution days, which suggests adverse impacts on their work-life-balance. The decline in output arises even at concentrations in line with current regulatory standards in the EU and US. Exposure to unusually high PM2.5 levels relative to the city-by-season-by-day-of-week specific mean reduces daily output quantity by 4%, which translates into a loss in output value by approximately $8 per developer.</div>
 </details>
@@ -31,18 +31,18 @@ Socio-emotional skills are important predictors for life outcomes like education
 <br/>
 
 ### WORK IN PROGRESS
-**Disrupted Rhythms, Disrupted Code? Daylight Savings Time, Circadian Rhythm, and Knowledge Worker Performance** (*with [Felix Holub](https://felixholub.com/) and [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me)*) 
+**Productivity Spillovers in International Teams: Insights from GitHub Activity Data** (*with [Felix Holub](https://felixholub.com/) and [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me)*) 
 
 <details>
   <summary>[Abstract]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 
-We study how circadian rhythm disruptions affect the performance of highly skilled knowledge workers. Using data from GitHub, we build a panel of daily output and work patterns of almost 50,000 professional software developers. We exploit transitions into and out of daylight saving time (DST) as exogenous shocks to the circadian rhythms. Despite flexible schedules allowing partial adjustment, developers’ output declines by 5.4% immediately after the DST spring transition. This shock also generates spillover effects within developer teams: Developers outside North America who collaborate with North American peers experience a 3.9% drop in output after the U.S. spring transition. To explore the impact of chronic circadian misalignments, we classify developers into morning and evening types, based on their temporal activity profiles. Morning types outperform evening types by 14% in output quantity and 2% in quality. Because prevailing social schedules are more aligned with natural rhythms of morning-types, this performance gap points to adverse impacts of a chronic circadian misalignment. Our findings highlight substantial economic costs of circadian rhythm disruptions in the knowledge economy and underscore the need for policy and workplace strategies that mitigate their effects. </div>
+Identifying productivity spillovers – peer effects – among high-skilled knowledge workers is notoriously difficult, due to lack of measurement of immediate effort and productivity, selective peer formation and simultaneity issues. Based on time-stamped GitHub activity from professional software developers contributing to collaborative projects, we identify endogenous peer effects in knowledge worker productivity through exogenous productivity shocks to varying shares of co-workers. Transitions into Daylight Saving Time (DST) by North-American co-workers lead to sizable reductions in productivity, measurable in quantity and quality of actions. These productivity shocks spill over to non-affected co-workers, indicating strong complementarities in software production. The spillovers are not uniform but driven by more experienced collaborators, particularly those in managerial or reviewer roles, and primarily borne by inexperienced focal developers.  </div>
 </details>
 
 <br/>
 
-**Spillover Effects of Local Environmental Shocks in Global Networks of Knowledge Workers** (*with [Felix Holub](https://felixholub.com/)*)
+**Teleworking and the Environment** (*with [Omar Bamieh](https://sites.google.com/view/omar-bamieh/home) and [Lennart Ziegler](https://lennartziegler.com/)*)
 
 <br/>
 
