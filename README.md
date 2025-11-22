@@ -46,9 +46,11 @@ Identifying productivity spillovers – peer effects – among high-skilled know
 
 <br/>
 
-**The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*)
+**The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*
 
 <br/>
+
 ### RESEARCH FIELDS
+
 Environmental Economics<br/>
 Labor Economics<br/>
