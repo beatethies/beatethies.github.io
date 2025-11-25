@@ -1,9 +1,12 @@
 
 ## WELCOME!
-I am an Assistant Professor in the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/).  Prior to that, I did my PhD in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). My main research interests are in environmental and labor economics. 
+I am an Assistant Professor in the Department of Economics at the [University of Vienna](https://econ.univie.ac.at/).  Prior to that, I did my PhD in Economics at the [University of Mannheim](https://www.vwl.uni-mannheim.de/en/). I am an applied microeconomist, using quasi-experimental methods to study policy-relevant questions in environmental and labor economics. 
 <br/>
+
+I am  a co-organizer of the [Vienna Applied Micro Economics Network](https://www.viennaappliedmicroeconomics.com/).
 <br/>
-Find my [CV here](https://beatethies.github.io/CV_BT.pdf) and feel free to contact me at [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
+
+Find my [CV here](https://beatethies.github.io/CV_BT.pdf) or send me an email: [beate[dot]thies[at]univie.ac.at](mailto:beate.thies@univie.ac.at).  <br/>
 <br/>
 
 <br/>
