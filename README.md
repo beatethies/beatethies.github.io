@@ -35,14 +35,12 @@ Socio-emotional skills are important predictors for life outcomes like education
 
 ### WORK IN PROGRESS
 **Teleworking and the Environment** (*with [Omar Bamieh](https://sites.google.com/view/omar-bamieh/home) and [Lennart Ziegler](https://lennartziegler.com/)*)
-<details>
+<p> <details>
   <summary>[Abstract | <a href="https://teleworking-environment.univie.ac.at/">Project Website</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 We study the effects of work from home (WFH) on commuting, vehicle registrations and the environment. Using administrative microdata from Austria on the annual number of days workers work from home, we calculate work from home potential for the full population. Exploiting the unexpected shock to WFH adoption due to the COVID-19 pandemic, we compare workers with high WFH potential to those with low WFH potential before and after 2020, in a difference-in-differences (DiD) design. We find that WFH increases commuting distances; however, because workers took fewer trips to the office, on net WFH reduced yearly kilometers commuted by  the average worker. However, in the absence of the rebound effect on commuting distances the reduction in commuting, and CO2 emissions, would have been larger. Linking regional data on vehicle registrations, we further show that new vehicle registrations decline in regions with a larger share of workers with high WFH potential. Using data on fine particulate matter concentrations (PM2.5) at the municipal level, we find that air quality improved in municipalities with a high share of workers with remote work potential relative to municipalities with a lower share. We also find positive spillover effects of neighboring municipalities’ remote work potential on the focal municipality’s air quality, consistent with less frequent commuting as the main mechanism driving the beneficial effects of WFH on air quality. </div>
-</details> <br/>
+</details> </p>
 
-
-<br/>
 
 
 **The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*<br/>
@@ -58,16 +56,16 @@ uncertainty. The findings highlight a previously under-explored channel through 
 might extend beyond capital and product markets to include non-trivial productivity and mental health costs for affected workers. </div>
 </details> </p>
 
-<br/>
+
 
 **Productivity Spillovers in International Teams: Insights from GitHub Activity Data** (*with [Felix Holub](https://felixholub.com/) and [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me)*) 
-
+<p> 
 <details>
   <summary>[Abstract]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 
 Identifying productivity spillovers – peer effects – among high-skilled knowledge workers is notoriously difficult, due to lack of measurement of immediate effort and productivity, selective peer formation and simultaneity issues. Based on time-stamped GitHub activity from professional software developers contributing to collaborative projects, we identify endogenous peer effects in knowledge worker productivity through exogenous productivity shocks to varying shares of co-workers. Transitions into Daylight Saving Time (DST) by North-American co-workers lead to sizable reductions in productivity, measurable in quantity and quality of actions. These productivity shocks spill over to non-affected co-workers, indicating strong complementarities in software production. The spillovers are not uniform but driven by more experienced collaborators, particularly those in managerial or reviewer roles, and primarily borne by inexperienced focal developers.  </div>
-</details>
+</details> </p> 
 
 <br/>
 
