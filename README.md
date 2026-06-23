@@ -34,6 +34,30 @@ Socio-emotional skills are important predictors for life outcomes like education
 <br/>
 
 ### WORK IN PROGRESS
+**Teleworking and the Environment** (*with [Omar Bamieh](https://sites.google.com/view/omar-bamieh/home) and [Lennart Ziegler](https://lennartziegler.com/)*)
+<details>
+  <summary>[Abstract | <a href="https://teleworking-environment.univie.ac.at/">Project Website</a>]</summary>
+<div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
+We study the effects of work from home (WFH) on commuting and the environment. Using administrative microdata from Austria on the annual number of days workers work from home, we calculate work from home (WFH) potential for the full population. Exploiting the unexpected shock to WFH adoption due to the COVID-19 pandemic, we compare workers with high WFH potential to those with low WFH potential before and after 2020, in a difference-in-differences (DiD) design. We find that WFH increases commuting distances; however, because workers took fewer trips to the office, WFH reduced yearly kilometers commuted by 735km (7%) for the average worker. In the absence of the rebound effect on commuting distances the reduction in commuting would have been 900km. This reduction in commuting implies an annual reduction in CO2 emissions of 0.065 tonnes per worker (6.5%). Linking regional data on vehicle registrations, we further show that new vehicle registrations decline in regions with a larger share of workers with high WFH potential. Using data on fine particulate matter concentrations (PM2.5) at the municipal level, we find that air quality improved in municipalities with a high share of workers with remote work potential relative to municipalities with a lower share. We also
+find positive spillover effects of neighboring municipalities’ remote work potential on the focal municipality’s air quality, consistent with less frequent commuting as the main mechanism driving the beneficial effects of WFH on air quality. </div>
+</details>
+
+
+
+**The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*<br/>
+*Winner of the Charles River Associates Award For the Best Paper on Corporate Finance (WFA 2026)*
+<details>
+  <summary>[Abstract]</summary>
+<div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
+We study how takeover announcements affect the productivity of knowledge workers employed by target firms. Using data from GitHub to measure individual work output
+and a stacked event study specification, we find that work output declines by 14% following takeover announcements. We also find suggestive evidence that code quality
+deteriorates. The effect on quantity is more pronounced for acquisitions associated with a larger risk of layoffs, specifically within-industry takeovers. Also, the results are
+weaker in states where takeovers are likely to be motivated by the wish to acquire skilled employees. These patterns are consistent with stress and anxiety induced by takeover
+uncertainty. The findings highlight a previously under-explored channel through which takeovers can be costly for acquirers. More broadly, the welfare effects of takeovers
+might extend beyond capital and product markets to include non-trivial productivity and mental health costs for affected workers. </div>
+</details>
+
+
 **Productivity Spillovers in International Teams: Insights from GitHub Activity Data** (*with [Felix Holub](https://felixholub.com/) and [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me)*) 
 
 <details>
@@ -45,13 +69,7 @@ Identifying productivity spillovers – peer effects – among high-skilled know
 
 <br/>
 
-**Teleworking and the Environment** (*with [Omar Bamieh](https://sites.google.com/view/omar-bamieh/home) and [Lennart Ziegler](https://lennartziegler.com/)*)
 
-<br/>
-
-**The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*
-
-<br/>
 
 ### RESEARCH FIELDS
 
