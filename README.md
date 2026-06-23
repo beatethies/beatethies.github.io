@@ -44,9 +44,10 @@ We study the effects of work from home (WFH) on commuting, vehicle registrations
 
 <br/>
 
+
 **The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*<br/>
 *Winner of the Charles River Associates Award For the Best Paper on Corporate Finance (WFA 2026)*
-<details>
+<p> <details>
   <summary>[Abstract]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;  margin: 10px;"> 
 We study how takeover announcements affect the productivity of knowledge workers employed by target firms. Using data from GitHub to measure individual work output
@@ -55,7 +56,7 @@ deteriorates. The effect on quantity is more pronounced for acquisitions associa
 weaker in states where takeovers are likely to be motivated by the wish to acquire skilled employees. These patterns are consistent with stress and anxiety induced by takeover
 uncertainty. The findings highlight a previously under-explored channel through which takeovers can be costly for acquirers. More broadly, the welfare effects of takeovers
 might extend beyond capital and product markets to include non-trivial productivity and mental health costs for affected workers. </div>
-</details> <br/>
+</details> </p>
 
 <br/>
 
