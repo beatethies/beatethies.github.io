@@ -37,7 +37,7 @@ Socio-emotional skills are important predictors for life outcomes like education
 **The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*<br/>
 *Winner of the Charles River Associates Award For the Best Paper on Corporate Finance (WFA 2026)*
 <p> <details>
-  <summary>[Abstract | <a "https://www.andrasdanis.com/PDF/knowledge-workers.pdf">Paper</a>]</summary>
+  <summary>[Abstract | <a href="https://www.andrasdanis.com/PDF/knowledge-workers.pdf">Paper</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;  margin: 10px;"> 
 We study how takeover announcements affect the productivity of knowledge workers employed by target firms. Using data from GitHub to measure individual work output
 and a stacked event study specification, we find that work output declines by 14% following takeover announcements. We also find suggestive evidence that code quality
