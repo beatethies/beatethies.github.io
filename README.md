@@ -22,7 +22,7 @@ Highly skilled knowledge workers are important drivers of innovation and long-ru
 
  <br/>
  
-**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** (Revise and Resubmit, JAERE)
+**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** (Conditionally accepted, JAERE)
 
 
 <details>
