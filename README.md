@@ -11,9 +11,10 @@ Find my [CV here](https://beatethies.github.io/CV_BT.pdf) or send me an email: [
 
 <br/>
 
+<hr>
+
 ### WORKING PAPERS
 **Air Quality, Knowledge Worker Performance and Adaptation: Evidence from GitHub**  (*with [Felix Holub](https://felixholub.com/)*)
-
 <details>
   <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
@@ -22,10 +23,9 @@ Highly skilled knowledge workers are important drivers of innovation and long-ru
 
  <br/>
  
-**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills** (Conditionally accepted, JAERE)
-
-
-<details>
+**Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills**<br/>
+*Conditionally accepted, **JAERE***
+<details style="margin-top: -0.5em;">
   <summary>[Abstract | <a href="https://beatethies.github.io/AP_socioemotional2025.pdf">Paper</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 Socio-emotional skills are important predictors for life outcomes like education, health and earnings. This paper provides causal evidence on the effect of in-utero exposure to air pollution on socio-emotional ability in childhood. Using thermal inversions to address endogeneity in pollution exposure and data from a representative household survey in Germany, I find that an increase in fine particulate matter concentration by 1 μg/m3 during the prenatal period increases neuroticism and internalizing behavior at age 5-10 by 13% and 18% of a standard deviation, respectively. This implies that affected children are less emotionally stable and suggests adverse impacts on mental health. The effects on emotional stability are more pronounced than impacts on measures of cognitive ability. Back-of-the-envelope computations indicate that a standard deviation increase in air pollution reduces adult earnings by 0.23%-0.74% through its impact on socio-emotional ability. These results provide a better understanding of how in-utero exposure to air pollution generates adverse long-run effects and what type of interventions might be effective in mitigating them. </div>
@@ -35,7 +35,7 @@ Socio-emotional skills are important predictors for life outcomes like education
 
 
 **The Effect of Takeovers on Knowledge Worker Productivity** (*with [Andras Danis](https://www.andrasdanis.com/) and [Evgeny Gushchin](https://economics.ceu.edu/people/evgeny-gushchin))*<br/>
-*Winner of the Charles River Associates Award For the Best Paper on Corporate Finance (WFA 2026)*
+*Charles River Associates Award For Best Paper on Corporate Finance (WFA 2026)*
 <p> <details>
   <summary>[Abstract | <a href="https://www.andrasdanis.com/PDF/knowledge-workers.pdf">Paper</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;  margin: 10px;"> 
@@ -47,6 +47,7 @@ uncertainty. The findings highlight a previously under-explored channel through 
 might extend beyond capital and product markets to include non-trivial productivity and mental health costs for affected workers. </div>
 </details> </p>
 
+<hr>
 
 ### WORK IN PROGRESS
 **Teleworking and the Environment** (*with [Omar Bamieh](https://sites.google.com/view/omar-bamieh/home) and [Lennart Ziegler](https://lennartziegler.com/)*)
