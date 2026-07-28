@@ -17,7 +17,7 @@ Find my [CV here](https://beatethies.github.io/CV_BT.pdf) or send me an email: [
 **Prenatal Exposure to Air Pollution and the Development of Socio-Emotional Skills**<br/>
 *Accepted, **Journal of the Association of Environmental and Resource Economists***
 <details style="margin-top: -0.55em;">
-  <summary>[Abstract | <a href="https://beatethies.github.io/AP_socioemotional2025.pdf">Paper</a>]</summary>
+  <summary>[Abstract | <a href="https://www.journals.uchicago.edu/doi/10.1086/743348">Paper</a>]</summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 This paper pestimates the effect of in-utero exposure to air pollution on socioemotional ability in childhood, using data from a representative household survey in Germany and thermal inversions to address endogeneity. I find that an increase in fine particulate matter concentration by 1 μg/m3 during the prenatal period increases neuroticism and internalizing behavior at age 5-10 by 13% and 18% of a standard deviation, respectively, implying that affected children are less emotionally stable. The effects are driven by increases in the upper parts of the outcome distributions. Back-of-the-envelope computations indicate that a standard deviation increase in air pollution reduces adult earnings by 0.23%-0.74% through its impact on socioemotional ability. These results provide a better understanding of how in-utero exposure to air pollution generates adverse long-run effects. </div>
 </details>
