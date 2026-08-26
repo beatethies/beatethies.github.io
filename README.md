@@ -26,9 +26,16 @@ This paper pestimates the effect of in-utero exposure to air pollution on socioe
 
 **Air Quality, Knowledge Worker Performance and Adaptation: Evidence from GitHub**  (*with [Felix Holub](https://felixholub.com/)*)
 <details style="margin-top: -0.55em;">
-  <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
+  <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub_HT.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
-Highly skilled knowledge workers are important drivers of innovation and long-run growth. We study how air quality affects productivity and work patterns among these workers, using data from GitHub, the world's largest coding platform. We combine panel data on daily output, working hours, and task choices for a sample of 27,000 software developers across four continents during the period 2014-2019 with information on concentrations of fine particulate matter (PM2.5). An increase in air pollution reduces output, measured by the number of total actions performed on GitHub per day, and induces developers to adapt by working on easier tasks and by ending work activity earlier. To compensate, they work more on weekends following high-pollution days, which suggests adverse impacts on their work-life-balance. The decline in output arises even at concentrations in line with current regulatory standards in the EU and US. Exposure to unusually high PM2.5 levels relative to the city-by-season-by-day-of-week specific mean reduces daily output quantity by 4%, which translates into a loss in output value by approximately $8 per developer.</div>
+Highly skilled knowledge workers are important drivers of innovation and growth. We
+study how air pollution affects these workers, using data from GitHub, the world’s
+largest coding platform, on 34,000 software developers across five continents.
+Pollution shocks reduce daily output quantity and quality by 4.3% and 2%, respectively,
+implying annual losses of $266 per developer. Developers adapt by working on easier tasks and
+by reallocating work to weekends following high-pollution days. We exploit location
+changes among developers to assess the effect of prolonged pollution exposure, which
+we estimate to be seven times as large as the effect of acute exposure.</div>
 </details>
 
  <br/>
