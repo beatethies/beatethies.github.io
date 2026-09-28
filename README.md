@@ -26,7 +26,7 @@ This paper pestimates the effect of in-utero exposure to air pollution on socioe
 
 **Air Quality, Knowledge Worker Performance and Adaptation: Evidence from GitHub**  (*with [Felix Holub](https://felixholub.com/)*)
 <details style="margin-top: -0.55em;">
-  <summary> [Abstract | <a href="https://beatethies.github.io/AQ_GitHub_HT.pdf">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
+  <summary> [Abstract | <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4398088">Paper</a> | <a href="https://www.thevisiblehand.uk/episodes/episode-51">Podcast</a>] </summary>
 <div class="panel" style="background-color: #F1F1F1; color: #666; padding: 10px;"> 
 Highly skilled knowledge workers are important drivers of innovation and growth. We
 study how air pollution affects these workers, using data from GitHub, the world’s
